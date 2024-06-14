@@ -1,0 +1,333 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.pimg0{
+    background-image: url(0.jpeg);
+    min-height: 900px;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg1{
+    background-image: url(1.jpeg);
+    min-height: 900px;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg2{
+    background-image: url(2\ -\ Copy.jpeg);
+    min-height: 900px;
+    
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+.pimg3{
+    background-image: url(3.jpeg);
+    min-height: 800px;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg4{
+    background-image: url(4.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg5{
+    background-image: url(5.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg6{
+    background-image: url(6.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg7{
+    background-image: url(7.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg8{
+    background-image: url(8.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg9{
+    background-image: url(9.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg10{
+    background-image: url(10.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg11{
+    background-image: url(11.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg12{
+    background-image: url(12.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg13{
+    background-image: url(13.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg14{
+    background-image: url(14.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg15{
+    background-image: url(15.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg16{
+    background-image: url(16.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg17{
+    background-image: url(17.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg18{
+    background-image: url(18.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg19{
+    background-image: url(19.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg20{
+    background-image: url(20.jpeg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ptext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    letter-spacing: 8px;text-transform: uppercase;
+}
+
+.textBg{
+   
+    background: #313534;
+    color: #fff;
+    padding: 20px;
+}
+
+.section{
+    padding: 50px 80px;
+    text-align: center;
+}
+.section-light{
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+.section-dark{
+    background-color: #282e34;
+    color: #ddd;
+}
+
+.fotter{
+    display: flex;
+    
+    color: rgb(236, 22, 22);
+    background-color: gold;
+    justify-content: center;
+}
+
+.ool{
+    font-size: 13px;
+    display: flex;
+    
+    color: black;
+    background-color: gold;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 768px) {
+    .pimg0, .pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6, .pimg7, .pimg8, .pimg9,
+    .pimg10, .pimg11, .pimg12, .pimg13, .pimg14, .pimg15, .pimg16, .pimg17, .pimg18, .pimg19 {
+        min-height: 500px; /* Adjust the height as needed for smaller screens */
+    }
+    .pimg20{
+        min-height: 500px;
+
+    }
+
+    .ptext {
+        font-size: 20px; /* Adjust the font size as needed for smaller screens */
+    }
+
+    .section {
+        padding: 30px 20px; /* Adjust the padding as needed for smaller screens */
+    }
+}
+
+/* Your existing code for larger screens */
+.pimg0, .pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6, .pimg7, .pimg8, .pimg9,
+.pimg10, .pimg11, .pimg12, .pimg13, .pimg14, .pimg15, .pimg16, .pimg17, .pimg18, .pimg19, .pimg20 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ptext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.section {
+    padding: 50px 80px;
+    text-align: center;
+}
